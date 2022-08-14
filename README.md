@@ -19,12 +19,11 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a 13 year old coder. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a 13 year old coder.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring ways to become a better coder.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I listen to music and read books.
 
 ---
 
