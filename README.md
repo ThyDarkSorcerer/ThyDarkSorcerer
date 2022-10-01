@@ -8,10 +8,7 @@
 
 <div align="center">
   
-<h1>
-  Hi! I am ThyDarkSorcerer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=6F92FF&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I+am+ThyDarkSorcerer!)](https://git.io/typing-svg)
   </div>
   
 <div align="center">
