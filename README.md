@@ -1,5 +1,8 @@
 <div align="center">
-
+  <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br>
+<br>
+<br>
 </div>  
   
 
