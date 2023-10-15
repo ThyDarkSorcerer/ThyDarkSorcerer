@@ -12,12 +12,6 @@
 - 🔭 I am learning Java and Swift!  
   
 
-- 🌱 Exploring ways to become a better coder.  
-  
-
-- ⚡ Fun fact: I’m a 13 year old coder.  
-  
-
 <br/>  
 
 
